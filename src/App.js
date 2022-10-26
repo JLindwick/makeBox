@@ -1,0 +1,14 @@
+import React from 'react';
+
+import './App.css';
+import FormComponent from ".//components/FormComponent.js";
+
+function App() {
+  return (
+    <>
+      <FormComponent/>
+    </>
+  );
+}
+
+export default App;
